@@ -35,5 +35,6 @@
     <module>JMugen.Launcher</module>
     <module>JMugen.Debug</module>
     <module>JMugen</module>
+    <module>JMugen.Common</module>
   </modules>
 </project>
